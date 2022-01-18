@@ -1,3 +1,5 @@
+Marlin 2.0 modificado para impressora GTMax3D Core A1 usando ![direct drive BMG](https://photos.app.goo.gl/kMJ72bEitV1XWLcQ8) e sensor de fim de curso.
+
 OBSERVAÇÃO: Nesse firmware a mesa esta configurada para 175mm de Y por uma modificação que fiz no suporte da extrusora.
 
 
