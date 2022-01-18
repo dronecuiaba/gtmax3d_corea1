@@ -1,3 +1,6 @@
+OBSERVAÇÃO: Nesse firmware a mesa esta configurada para 175mm de Y por uma modificação que fiz no suporte da extrusora.
+
+
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
